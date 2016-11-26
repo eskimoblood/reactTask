@@ -1,0 +1,40 @@
+exports[`Content render correct for state ERROR 1`] = `
+<p>
+  Some strange things happen
+</p>
+`;
+
+exports[`Content render correct for state LOADING 1`] = `
+<p>
+  Loading
+</p>
+`;
+
+exports[`Content render correct for state NOT_ASKED 1`] = `
+<p>
+  please enter a user name
+</p>
+`;
+
+exports[`Content render correct for state SUCCESS 1`] = `
+<ul>
+  <li>
+    <a
+      href="http://test.de/1">
+      repo1
+    </a>
+  </li>
+  <li>
+    <a
+      href="http://test.de/2">
+      repo2
+    </a>
+  </li>
+  <li>
+    <a
+      href="http://test.de/3">
+      repo3
+    </a>
+  </li>
+</ul>
+`;

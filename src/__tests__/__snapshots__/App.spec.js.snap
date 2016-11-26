@@ -1,0 +1,8 @@
+exports[`App renders correct 1`] = `
+<div>
+  <input
+    onInput={[Function]} />
+  <Content
+    onChange={[Function]} />
+</div>
+`;
